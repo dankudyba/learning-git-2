@@ -3,7 +3,11 @@ body {
     margin: 0 auto;
     text-align: center;
     background: #ccc;
+	font-size: 18px;
 }
 p {
 	text-align: left;
+}
+br {
+	margin-top: 50px;
 }
