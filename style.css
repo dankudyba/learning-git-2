@@ -1,9 +1,10 @@
 body {
-	 width: 50%;
-    margin: 0 auto;
-    text-align: center;
-    background: #ccc;
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+	background: #ccc;
 	font-size: 18px;
+	background: red;
 }
 p {
 	text-align: left;
